@@ -1,0 +1,13 @@
+Start the front end : (inside the frontend folder)
+npm run dev
+
+
+Start the backend: (inside the backend folder)
+node index.js
+
+
+Start the Mysql Service:(in the project root directory terminal)
+
+
+incase of executiion policy problem:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
